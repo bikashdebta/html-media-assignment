@@ -1,0 +1,6 @@
+Comments are useful when we want to write something about the code but we do not want to run that 
+or show in the output 
+or we donot want to render that on the webpage.
+
+Example
+<!--hey,this is a comment-->
